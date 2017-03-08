@@ -1,0 +1,22 @@
+{
+  "name": "higgs",
+  "version": "1.0.0",
+  "description": "Distributed computing platform for solving humanity's newest problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/alancnet/higgs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "log4js": "^1.1.1",
+    "masterless": "^0.4.1",
+    "rxjs": "^5.2.0",
+    "uuid": "^3.0.1"
+  }
+}
